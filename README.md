@@ -1,1 +1,1 @@
-python mini project using tkinter ang mysql
+python mini projects using tkinter ang mysql
